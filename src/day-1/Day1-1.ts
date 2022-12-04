@@ -28,5 +28,3 @@ for(const line of data.split('\n')) {
 }
 
 console.log(`Elf ${elfWithMostCalories} has collected the most calories: ${mostCalories}`);
-
-export {}

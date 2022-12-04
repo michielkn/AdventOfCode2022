@@ -15,8 +15,8 @@
     "day-1-1": "tsc && node dist/day-1/Day1-1.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "michielkn",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^18.11.10",
     "ts-node": "^10.9.1",
