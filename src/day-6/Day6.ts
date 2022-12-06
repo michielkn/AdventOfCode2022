@@ -1,5 +1,9 @@
 import {readFileSync} from "fs";
 
+// ==> part 1
+//const amount = 4;
+
+// ==> part 2
 const amount = 14;
 
 const data = String(readFileSync('./data/day-6/data'));
