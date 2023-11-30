@@ -5,6 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "day-13-2": "tsc && node dist/day-13/Day13-2.js",
+    "day-13-1": "tsc && node dist/day-13/Day13-1.js",
     "day-12-2": "tsc && node dist/day-12/Day12-2.js",
     "day-12-1": "tsc && node dist/day-12/Day12-1.js",
     "day-11-2": "tsc && node dist/day-11/Day11-2.js",
